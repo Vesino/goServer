@@ -1,3 +1,3 @@
-module github.com/Vesino/goServer/v1
+module github.com/Vesino/goServer
 
 go 1.17
